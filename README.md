@@ -20,7 +20,7 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Habilidades</b>
 <br>
@@ -34,15 +34,16 @@
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![SQL](https://img.shields.io/badge/SQL%20-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-    
+    ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
 <br>
 
 - **Desarrollo Front-End**:
    
    ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7F.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
    ![Laravel](https://img.shields.io/badge/Laravel%20-%23E14B32.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
    ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%234B5563.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
     
 <br>
@@ -71,6 +72,31 @@
 <br>
 <br>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Proyectos Destacados</b>
+<br>
+
+- **[E-commerce Website](#)**: Desarrollo de una plataforma de comercio electrónico utilizando Laravel y Bootstrap, donde los usuarios pueden navegar y comprar productos en línea.
+- **[Aplicación de Gestión de Tareas](#)**: Implementación de una aplicación web para la gestión de tareas con funcionalidades de registro, inicio de sesión y manejo de tareas pendientes.
+- **[Juego en Unity](#)**: Creación de un juego 2D utilizando Unity, donde los usuarios pueden interactuar con diferentes elementos y completar niveles.
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Certificaciones</b>
+<br>
+
+- **Certificado de Desarrollo Web Full Stack**: [Institución](#)
+- **Certificación en PHP y Laravel**: [Institución](#)
+- **Curso de Java y C# en [Nombre de la Plataforma](#)**
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Idiomas</b>
+<br>
+
+- **Español**: Nativo
+- **Inglés**: B1
+
+<br>
 -----
 
 <br>
@@ -122,11 +148,4 @@
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<br>
-
-Última edición: 31/10/2024
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b>  ¡Gracias por visitar mi perfil!</b>
