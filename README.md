@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola, Soy Fabian Axael Jurado Hernández</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, Soy Fabian Axael</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+Web+Full+Stack" alt="Typing SVG" /></a>
@@ -8,15 +8,15 @@
 
 ## <picture><img src="https://icons.veryicon.com/png/o/internet--web/55-common-web-icons/person-4.png" width="50px"></picture> **Sobre mí**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="250px"></picture>
 
 <br>
 
 - Soy un ingeniero de software apasionado por el desarrollo web full stack.
 - Tengo experiencia con HTML, CSS, JavaScript, PHP, SQL, MySQL, Laravel y Bootstrap.
 - Siempre busco aprender nuevas tecnologías y mejorar mis habilidades.
-- Actualmente estoy trabajando en proyectos que utilizan las últimas tendencias en desarrollo web.
-- Estoy abierto a nuevas oportunidades laborales y proyectos interesantes. [Aquí está mi currículum](#).
+- Actualmente estoy trabajando en proyectos como aplicaciones web de E-commerce.
+- Estoy abierto a nuevas oportunidades laborales y/o proyectos interesantes. [Aquí está mi currículum](#).
 
 <br><br>
 
@@ -40,6 +40,10 @@
 - **Desarrollo Front-End**:
    
    ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7F.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+   ![Laravel](https://img.shields.io/badge/Laravel%20-%23E14B32.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%234B5563.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
     
 <br>
 
@@ -53,7 +57,6 @@
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
@@ -100,23 +103,17 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/fabianaxael" target="_blank">
+<a href="https://www.linkedin.com/in/fabian-axael-jurado-hernandez" target="_blank">
 <img src="https://img.shields.io/badge/linkedin: fabianaxael-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
-<li>
-<a href="https://twitter.com/fabianaxael" target="_blank">
-<img src="https://img.shields.io/badge/twitter: fabianaxael-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
 <br>
 
 <li>
-<a href="mailto:fabi.jurado@example.com" target="_blank">
+<a href="mailto:fabianaxaelj@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail: fabi.jurado@example.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
@@ -130,20 +127,6 @@
 <br>
 <br>
 
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
 <br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
-Créditos: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
 Última edición: 31/10/2024
