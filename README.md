@@ -72,7 +72,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Proyectos Destacados</b>
 <br>
 
-- **[Aplicación Web Integral](http://gerardozaldua.com)**: Desarrollo de una aplicación web integral que incluye un e-commerce, un blog (ambos dinamicos) y diversas páginas informativas. Los usuarios pueden registrarse, navegar y comprar productos en línea, leer artículos en el blog y obtener información sobre los servicios ofrecidos, así como acceder a páginas como "Sobre mí" y "Contacto".
+- **[Aplicación Web Integral](http://gerardozaldua.com)**: Desarrollo de una aplicación web integral que incluye un e-commerce, un blog (ambos dinamicos) y diversas páginas informativas. Los usuarios pueden registrarse, navegar y comprar productos en línea, leer artículos en el blog y obtener información sobre los servicios ofrecidos.
 
 <br>
 
