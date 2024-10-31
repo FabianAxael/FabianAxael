@@ -6,9 +6,7 @@
 
 <br>
 
-## <picture><img src="https://icons.veryicon.com/png/o/internet--web/55-common-web-icons/person-4.png" width="50px"></picture> **Sobre mí**
-
-<picture> <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="250px"></picture>
+## <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></picture> **Sobre mí**
 
 <br>
 
@@ -48,11 +46,6 @@
     
 <br>
 
-- **Hosting en la Nube**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
 
 - **Herramientas y Software**:
 
@@ -75,18 +68,14 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Proyectos Destacados</b>
 <br>
 
-- **[E-commerce Website](#)**: Desarrollo de una plataforma de comercio electrónico utilizando Laravel y Bootstrap, donde los usuarios pueden navegar y comprar productos en línea.
-- **[Aplicación de Gestión de Tareas](#)**: Implementación de una aplicación web para la gestión de tareas con funcionalidades de registro, inicio de sesión y manejo de tareas pendientes.
-- **[Juego en Unity](#)**: Creación de un juego 2D utilizando Unity, donde los usuarios pueden interactuar con diferentes elementos y completar niveles.
+- **[Aplicación Web Integral](http://gerardozaldua.com)**: Desarrollo de una aplicación web integral que incluye un e-commerce, un blog (ambos dinamicos) y diversas páginas informativas. Los usuarios pueden registrarse, navegar y comprar productos en línea, leer artículos en el blog y obtener información sobre los servicios ofrecidos, así como acceder a páginas como "Sobre mí" y "Contacto".
 
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Certificaciones</b>
 <br>
 
-- **Certificado de Desarrollo Web Full Stack**: [Institución](#)
-- **Certificación en PHP y Laravel**: [Institución](#)
-- **Curso de Java y C# en [Nombre de la Plataforma](#)**
+- **Network Defense**: [Cisco](https://www.credly.com/badges/a1490206-64c9-40c9-8dc9-de77cd58481e)
 
 <br>
 
@@ -95,9 +84,6 @@
 
 - **Español**: Nativo
 - **Inglés**: B1
-
-<br>
------
 
 <br>
 
