@@ -14,7 +14,7 @@
 - Tengo experiencia con HTML, CSS, JavaScript, PHP, SQL, MySQL, Laravel y Bootstrap.
 - Siempre busco aprender nuevas tecnologías y mejorar mis habilidades.
 - Actualmente estoy trabajando en proyectos como aplicaciones web de E-commerce.
-- Estoy abierto a nuevas oportunidades y/o proyectos interesantes como freelancer. [Aquí está mi currículum](#https://drive.google.com/drive/folders/1b4CtbR_8IX-GWoLNlHcl6_rGyukmqM_4?usp=sharing).
+- Estoy abierto a nuevas oportunidades y/o proyectos interesantes como freelancer. [Aquí está mi currículum](https://drive.google.com/drive/folders/1b4CtbR_8IX-GWoLNlHcl6_rGyukmqM_4?usp=sharing).
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Habilidades</b>
