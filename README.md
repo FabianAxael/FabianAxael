@@ -35,9 +35,9 @@
 <br>
 
 - **Desarrollo Front-End**:
-   
+  
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7F.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-   ![Laravel](https://img.shields.io/badge/Laravel%20-%23E14B32.svg?style=for-the-badge&logo=laravel&logoColor=white)
    ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%234B5563.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <br>
